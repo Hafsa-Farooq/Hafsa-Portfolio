@@ -4,7 +4,7 @@ const projects = [
     desc: "A fully responsive food delivery interface built with React and Tailwind CSS.",
     tags: ["React.js", "Tailwind", "Firebase", "Stripe"],
     img: "/foodpanda.png",
-    demo: "foodpanda-tr3o.vercel.app",
+    demo: "https://foodpanda-tr3o.vercel.app",
     github: "https://github.com/Hafsa-Farooq/foodpanda.git"
   },
   {
@@ -12,7 +12,7 @@ const projects = [
     desc: "A professional logistics and fleet management dashboard with clean navigation.",
     tags: ["Next.js", "Tailwindcss"],
     img: "/fleetydashboard.png",
-    demo: "fleety-dashboard.vercel.app",
+    demo: "https://fleety-dashboard.vercel.app",
     github: "https://github.com/Hafsa-Farooq/DashboardTask.git"
   },
   {
@@ -20,7 +20,7 @@ const projects = [
     desc: "A cyberpunk-themed NFT marketplace component with Ethereum pricing.",
     tags: ["Next.js", "Tailwind"],
     img: "/NFT.png",
-    demo: "next-project-tan-pi.vercel.app",
+    demo: "https://next-project-tan-pi.vercel.app",
     github: "https://github.com/Hafsa-Farooq/NextProject.git"
   },
   // 4th Project
@@ -29,7 +29,7 @@ const projects = [
     desc: "Full-stack shopping experience with cart functionality and payment integration.",
     tags: ["React.js", "Custom CSS"],
     img: "/tier75-project.png",
-    demo: "tier75-project-5yei.vercel.app",
+    demo: "https://tier75-project-5yei.vercel.app",
     github: "https://github.com/Hafsa-Farooq/Tier75-project.git"
   },
   // Aap isi tarah baqi 8 projects yahan add kar sakti hain...
@@ -38,7 +38,7 @@ const projects = [
     desc: "Description here", 
     tags: ["HTML", "Custom CSS"], 
     img: "/Brewly.png", 
-    demo: "we-are-brewly.vercel.app", 
+    demo: "https://we-are-brewly.vercel.app", 
     github: "https://github.com/Hafsa-Farooq/we-are-brewly.git" 
   },
   // Project 6
@@ -46,7 +46,7 @@ const projects = [
     desc: "Description here", 
     tags: ["HTML", "Custom Css", "JavaScript"],
     img: "/Rock-paper-scissors-game.png", 
-    demo: "rock-paper-scissors-game-project-orcin.vercel.app", 
+    demo: "https://rock-paper-scissors-game-project-orcin.vercel.app", 
     github: "https://github.com/Hafsa-Farooq/rock-paper-scissors-game-project.git" 
   },
   // Project 7
@@ -54,7 +54,7 @@ const projects = [
     desc: "Description here", 
     tags: ["HTML", "Custom CSS"], 
     img: "/Profile-Template-Pages.png", 
-    demo: "profile-template-pages.vercel.app", 
+    demo: "https://profile-template-pages.vercel.app", 
     github: "https://github.com/Hafsa-Farooq/Profile-Template-pages.git"
    },
   // Project 8
@@ -62,7 +62,7 @@ const projects = [
     desc: "Description here",
     tags: ["HTML", "Custom CSS"], 
     img: "/profile.png",     
-    demo: "profile-page-peach-gamma.vercel.app",  
+    demo: "https://profile-page-peach-gamma.vercel.app",  
     github: "https://github.com/Hafsa-Farooq/PROFILE-PAGE.git"
    },
   // Project 9
@@ -70,7 +70,7 @@ const projects = [
     desc: "Description here",
     tags: ["HTML", "Custom CSS"], 
     img: "/Landing-page.png",  
-    demo: "landing-page-lac-three-67.vercel.app",  
+    demo: "https://landing-page-lac-three-67.vercel.app",  
     github: "https://github.com/Hafsa-Farooq/landing-page.git"
    },
   // Project 10
@@ -79,7 +79,7 @@ const projects = [
     desc: "Description here",
     tags: ["HTML", "Custom Css", "JavaScript"], 
     img: "/currency-convertor.png",  
-    demo: "currency-converter-with-api-gp2q.vercel.app",  
+    demo: "https://currency-converter-with-api-gp2q.vercel.app",  
     github: "https://github.com/Hafsa-Farooq/currency-converter-with-api.git" 
   },
   // Project 11
@@ -88,7 +88,7 @@ const projects = [
     desc: "Description here",
     tags: ["HTML", "Custom Css", "JavaScript"],      
     img: "/TIC-TAC-Game.png", 
-    demo: "tic-tac-game-orcin-eta.vercel.app",  
+    demo: "https://tic-tac-game-orcin-eta.vercel.app",  
     github: "https://github.com/Hafsa-Farooq/tic-tac-game.git" 
   },
   // Project 12
@@ -97,7 +97,7 @@ const projects = [
     desc: "Description here",
     tags: ["HTML"],    
     img: "/first-project.png",  
-    demo: "first-project-lovat-zeta.vercel.app",  
+    demo: "https://first-project-lovat-zeta.vercel.app",  
     github: "https://github.com/Hafsa-Farooq/First-project.git" 
   },
 ];
