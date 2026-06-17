@@ -1,7 +1,6 @@
 @import "tailwindcss";
 
 @theme {
-  /* Aapki professional palette yahan define ho rahi hai */
   --color-base-dark: #5c4d56;
   --color-base-muted: #a18e96;
   --color-accent-rose: #a87676;

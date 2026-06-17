@@ -79,7 +79,7 @@ const projects = [
     desc: "Description here",
     tags: ["HTML", "Custom Css", "JavaScript"], 
     img: "/currency-convertor.png",  
-    demo: "https://currency-converter-with-api-gp2q.vercel.app",  
+    demo: "https://landing-page-lac-three-67.vercel.app",  
     github: "https://github.com/Hafsa-Farooq/currency-converter-with-api.git" 
   },
   // Project 11
@@ -99,6 +99,15 @@ const projects = [
     img: "/first-project.png",  
     demo: "https://first-project-lovat-zeta.vercel.app",  
     github: "https://github.com/Hafsa-Farooq/First-project.git" 
+  },
+   // Project 12
+
+   { title: "Figma-Landing-Page in Next.js",
+    desc: "Figma-Landing-Page",
+    tags: ["Next.js", "Tailwind"],    
+    img: "/figma-page-img.png",  
+    demo: "https://figma-landing-page-in-next-js.vercel.app",  
+    github: "https://github.com/Hafsa-Farooq/Figma-Landing-Page-in-Next.js.git" 
   },
 ];
 
