@@ -100,7 +100,7 @@ const projects = [
     demo: "https://first-project-lovat-zeta.vercel.app",  
     github: "https://github.com/Hafsa-Farooq/First-project.git" 
   },
-   // Project 12
+   // Project 13
 
    { title: "Figma-Landing-Page in Next.js",
     desc: "Figma-Landing-Page",
