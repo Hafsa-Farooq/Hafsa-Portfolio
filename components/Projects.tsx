@@ -109,6 +109,16 @@ const projects = [
     demo: "https://figma-landing-page-in-next-js.vercel.app",  
     github: "https://github.com/Hafsa-Farooq/Figma-Landing-Page-in-Next.js.git" 
   },
+  // Project 14
+
+{
+  title: "TaskFlow AI",
+  desc: "AI-powered project management web app with manager/employee dashboards, real-time analytics, Groq AI insights, and live performance tracking.",
+  tags: ["Next.js", "TypeScript", "Tailwind CSS", "Supabase", "PostgreSQL", "Groq AI", "Llama 3.3", "Recharts", "Framer Motion", "Shadcn/UI"],
+  img: "/taskflow-ai.png",
+  demo: "https://project-tracking-system-sandy.vercel.app",
+  github: "https://github.com/Hafsa-Farooq/Project-Tracking-System.git"
+}
 ];
 
 export default function Projects() {
