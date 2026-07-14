@@ -106,7 +106,7 @@ const projects = [
     desc: "Figma-Landing-Page",
     tags: ["Next.js", "Tailwind"],    
     img: "/figma-page-img.png",  
-    demo: "https://figma-landing-page-in-next-js.vercel.app",  
+    demo: "https://figma-landing-page-in-next-js-rcn7.vercel.app/",  
     github: "https://github.com/Hafsa-Farooq/Figma-Landing-Page-in-Next.js.git" 
   },
   // Project 14
