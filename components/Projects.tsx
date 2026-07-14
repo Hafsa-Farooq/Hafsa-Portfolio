@@ -43,7 +43,7 @@ const projects = [
   },
   // Project 6
   { title: "Rock-Paper-Scissors-GAME",
-    desc: "Description here", 
+    desc: "Rock-Paper-Scissors-GAME between You and the Computer", 
     tags: ["HTML", "Custom Css", "JavaScript"],
     img: "/Rock-paper-scissors-game.png", 
     demo: "https://rock-paper-scissors-game-project-orcin.vercel.app", 
@@ -76,7 +76,7 @@ const projects = [
   // Project 10
 
   { title: "Currency-Convertor",
-    desc: "Description here",
+    desc: "Convert the currency according to the selected countries",
     tags: ["HTML", "Custom Css", "JavaScript"], 
     img: "/currency-convertor.png",  
     demo: "https://landing-page-lac-three-67.vercel.app",  
@@ -85,7 +85,7 @@ const projects = [
   // Project 11
 
   { title: "TIC-TAC-GAME",
-    desc: "Description here",
+    desc: "TIC-TAC-GAME",
     tags: ["HTML", "Custom Css", "JavaScript"],      
     img: "/TIC-TAC-Game.png", 
     demo: "https://tic-tac-game-orcin-eta.vercel.app",  
@@ -116,8 +116,8 @@ const projects = [
   desc: "AI-powered project management web app with manager/employee dashboards, real-time analytics, Groq AI insights, and live performance tracking.",
   tags: ["Next.js", "TypeScript", "Tailwind CSS", "Supabase", "PostgreSQL", "Groq AI", "Llama 3.3", "Recharts", "Framer Motion", "Shadcn/UI"],
   img: "/taskflow-ai.png",
-  demo: "https://project-tracking-system-sandy.vercel.app",
-  github: "https://github.com/Hafsa-Farooq/Project-Tracking-System.git"
+  demo: "https://project-tracking-system-sage.vercel.app",
+  github: "https://https://github.com/Hafsa-Farooq/Project-Tracking-System"
 }
 ];
 
